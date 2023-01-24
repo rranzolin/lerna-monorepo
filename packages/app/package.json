@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "0.0.0",
+  "version": "0.2.1",
   "private": "true",
   "main": "dist/main.js",
   "type": "module",
@@ -8,8 +8,8 @@
     "build": "rollup --config"
   },
   "dependencies": {
-    "@rranzolin/package-01": "*",
-    "@rranzolin/package-02": "*"
+    "@rranzolin/package-01": "^0.2.1",
+    "@rranzolin/package-02": "^0.2.1"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "15.0.1",
