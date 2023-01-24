@@ -1,11 +1,12 @@
 {
-  "name": "@lerna-monorepo/package-02",
+  "name": "@rranzolin/package-02",
   "version": "0.1.0",
   "type": "module",
   "main": "dist/main.js",
   "scripts": {
     "build": "rollup --config"
   },
+  "repository": "https://github.com/rranzolin/lerna-monorepo",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "15.0.1",
     "@rollup/plugin-typescript": "11.0.0",
