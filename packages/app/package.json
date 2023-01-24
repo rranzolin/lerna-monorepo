@@ -8,8 +8,8 @@
     "build": "rollup --config"
   },
   "dependencies": {
-    "@lerna-monorepo/package-01": "*",
-    "@lerna-monorepo/package-02": "*"
+    "@rranzolin/package-01": "*",
+    "@rranzolin/package-02": "*"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "15.0.1",
