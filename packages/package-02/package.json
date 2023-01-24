@@ -1,5 +1,5 @@
 {
-  "name": "package-02",
+  "name": "@lerna-monorepo/package-02",
   "version": "0.1.0",
   "type": "module",
   "main": "dist/main.js",
