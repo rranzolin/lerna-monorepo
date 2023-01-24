@@ -6,8 +6,8 @@
     "build:all": "lerna run build",
     "build:package-01": "lerna run build --scope=package-01",
     "build:package-02": "lerna run build --scope=package-02",
-    "version": "lerna version --no-private",
-    "publish": "lerna publish --no-private"
+    "new:version": "lerna version --no-private",
+    "new:publish": "lerna publish --no-private"
   },
   "repository": {
     "type": "git",
