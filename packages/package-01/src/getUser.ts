@@ -1,5 +1,5 @@
 import { User } from "./types";
 
 export function getUser(): User {
-  return { name: "Joe Doe", age: 20 };
+  return { name: "Joe Doe", age: 21 };
 }
