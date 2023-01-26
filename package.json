@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
+    "setup": "lerna bootstrap",
     "build:all": "lerna run build",
     "build:package-01": "lerna run build --scope=package-01",
     "build:package-02": "lerna run build --scope=package-02",
